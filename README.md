@@ -1,4 +1,4 @@
- 👋 I am a lecturer in Computer Science and AI at the Amsterdam University of Applied Sciences 
+ 👋 I am a lecturer in Computer Science and AI at the Amsterdam University of Applied Sciences <br>
  🔭 I’m currently working on computer vision, sound classification and Dutch language simplification.
  🌱 I’m currently learning the relationship between AI and neuroscience.
  👯 I’m looking to collaborate on projects. 
